@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ferrislucky
+- 👀 I’m interested in C# language
+- 🌱 I’m currently learning on C#
